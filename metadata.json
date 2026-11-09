@@ -1,0 +1,6 @@
+{
+  "name": "Binance",
+  "description": "Real-time cryptocurrency exchange replica featuring live trading charts, order books, spot trading, and multi-asset secure wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
